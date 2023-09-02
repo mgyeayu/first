@@ -1,0 +1,150 @@
+
+.ii{
+    margin: 0;
+    padding: 0;
+    color:blue;
+    background-color: deepskyblue;
+}
+h3{
+    text-align: center;
+}
+.ti{
+    text-align: right;
+    padding-bottom: 10px;
+}
+.pic{ 
+    width: 5px;
+    height: 5px;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+.xv{
+    text-decoration: none;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    margin-left: 2px;
+    text-align: left;
+    background-color:rgb(35, 35, 129) ;
+    text-decoration: none;  
+}
+a{
+    text-align: left;  
+    margin-left: 10px;  
+    color: #fff;
+    margin-left: 2px;
+    padding-right: 2px;
+    border-right:black 1px solid;
+    text-decoration: none;
+}
+.mi{
+    color:rgb(35, 35, 129);
+}
+.box{
+    text-align: center;
+    background-color:deepskyblue ;
+    padding-top: 10px;
+    padding-right: 200px;
+    border: dimgrey 1px solid;
+}
+
+.in{
+    text-align: center;
+    background-color:deepskyblue ;
+    padding-left: 370px;
+    border-radius: 5px;
+}
+h6{
+    border: dimgrey 1px solid;
+    padding-top: 3px;
+    margin-top: 5px;
+}
+.ss{
+    background-color: rgb(44, 44, 5);
+    text-align: right;
+    color:#fff;
+   
+}
+
+.ss input{
+    color: #fff;
+    background-color: green;
+    border-radius: 5px;
+}
+samp{
+    color: blue;
+}
+.cop{
+    text-align: center;
+    padding-bottom: 5px;
+}
+h6{
+    text-shadow: black;
+}
+.w{
+    text-align: center;
+}
+.ss input:hover{
+cursor: pointer;
+color: darkblue;
+background-color: darkgoldenrod;
+}
+.in input:hover{
+    cursor: pointer;
+    color:blue;
+}
+.star{
+    text-decoration: none;
+    color: rgb(9, 28, 138);
+    margin: 0;
+    padding: 0;
+    display: flex;
+    margin-left: 2px;
+    text-align: center;
+    background-color:rgb(19, 131, 235) ;
+    
+    
+}
+h4{
+text-align: center;
+padding-left: 100px;
+}
+.pp{
+    text-align: left;
+    color: rgb(9, 28, 138);
+    margin: 0;
+    padding: 0;
+    display: flex;
+    margin-left: 2px;
+    text-align: center;
+    background-color:rgb(19, 131, 235)
+}
+.pp a{
+  color:rgb(9, 28, 138) ;
+  padding-left: 100px;
+}
+.pp a:hover{
+    color: #f2700f ;
+    cursor: pointer;
+}
+a:hover{
+    color: #f2700f;
+    cursor: pointer;
+
+}
+.wo{
+    background-color: rgb(44, 44, 5);
+    text-align: right;
+    color:#fff;
+}
+.wo input{
+    color: #fff;
+    background-color:red;
+    border-radius: 5px;
+}
+.wo input:hover{
+    color: black;
+    cursor: pointer;
+    background-color: #f2700f;
+}

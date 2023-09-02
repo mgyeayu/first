@@ -1,0 +1,193 @@
+body{
+    margin:0;
+    padding:0;
+    background-color: #0099ff;
+    background-size: cover;
+    height: 100vh;
+    font-family: sans-serif;
+    
+}
+
+
+.mi{
+    background-color: #fff;
+    color: rgb(28, 9, 114);
+    padding-left: 5px;
+}
+.pic{ 
+    width: 5px;
+    height: 5px;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+h1{
+    margin: 0;
+    padding: 0 0 20px;
+    text-align: left;
+    font-size: 25px;
+    padding-top: 5pxpx;
+
+}
+
+.oo{
+    background-color: rgb(203, 203, 207);
+    margin: 5px;
+    padding: 10px;
+}
+.ti{
+    text-align: right;
+    padding-bottom: 10px;
+}
+.aq a{
+    color: midnightblue;
+}
+.box input{
+width: 100%;
+margin-bottom: 20px;
+color: #fff;
+}
+.box input[type="text"],input[type="password"]{
+    border: none;
+    border-bottom: 1px solid #fff;
+    background-color: transparent;
+    outline: none;
+    height: 40px;
+    font-size: 15px;
+    
+}
+.box input[type="submit"]{
+    border: none;
+    outline: none;
+    height: 40px;
+    background-color:#7fd2f3 ;
+    color: #fff;
+    border-radius: 20px;
+}
+.box h1[class="log"]:hover{
+    cursor: pointer;
+    color: #f2700f;
+      
+}
+a{
+    text-decoration: none;
+    color: #7fd2f3;
+    
+    
+}
+.logo{
+    background-color: rgba(29, 6, 238, 0.7);
+    
+}
+
+samp{
+    color: green;
+
+}
+.ii{
+    margin: 0;
+    padding: 0;
+    color:blue;
+    text-align: center;
+    background-color: deepskyblue;
+
+}
+.xv{
+    text-decoration: none;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    margin-left: 2px;
+    text-align: left;
+    background-color:rgb(28, 9, 114) ;
+    
+    
+}
+a{
+    text-align: left;  
+    margin-left: 10px;  
+    color: #fff;
+    margin-left: 2px;
+    padding-right: 2px;
+    border-right: #7fd2f3 1px solid;
+}
+
+.q1{
+border-bottom: #fff 1px solid;
+padding-bottom: 5px;
+}
+.lo{
+    background-color: #fff;
+    margin-top: 10px;
+    padding-top: 20px;
+    
+}
+a:hover{
+
+cursor: pointer;
+color:#f2700f;
+}
+.oo input:hover{
+    cursor: pointer;
+}
+.aa input:hover{
+    cursor: pointer;
+    color: blue;
+}
+hr{
+    padding-top: 5cm;
+}
+
+.mg{ 
+    background-color: #fff;
+    padding-top: 10px;
+    text-align: left;
+}
+.dr{
+padding-left: 30px;
+
+}
+.allo{
+    border: #fff 1px solid;
+    background-color: #fff;
+    
+}
+h6{
+    border: dimgrey 1px solid;
+    padding-left: 10px;
+    background-color: rgb(203, 203, 207);
+}
+.col{
+    background-color: olive;
+    text-align: right;
+}
+.col input{
+    color: #fff;
+    background-color: red;
+    text-align: right;
+}
+.cop{
+    background-color: #fff;
+    text-align: center;
+    color: #fff;
+}
+.col input:hover{
+    cursor: pointer;
+    background-color: #f2700f;
+    color: black;
+}
+h5{
+    color:black;
+    padding-bottom: 3px;
+}
+.aq a:hover{
+color: #f2700f;
+border-bottom: #f2700f 1px solid;
+}
+.w{
+    background-color: #fff;
+    border: #fff 20px solid;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
